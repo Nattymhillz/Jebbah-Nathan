@@ -1,2 +1,2 @@
-# Jebbah-Nathan
-Structure engineer for project and Architectural design 
+# Engr.Jebbah-Nathan
+Structurally incline with civil  engineering for project and Architectural designs
